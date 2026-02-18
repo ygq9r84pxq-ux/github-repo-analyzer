@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:taskchecker.academy.nebius.com)",
+      "Bash(python -c:*)",
+      "Bash(python3:*)",
+      "Bash(pip install:*)",
+      "Bash(curl:*)",
+      "Bash(kill:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
