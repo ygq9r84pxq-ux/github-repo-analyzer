@@ -8,7 +8,7 @@ Requires Python 3.10+.
 
 ```bash
 git clone https://github.com/ygq9r84pxq-ux/github-repo-analyzer && cd github-repo-analyzer
-pip install -r requirements.txt  # includes uvicorn
+pip install -r requirements.txt
 ```
 
 Copy `.env.example` to `.env` and set your Nebius API key:
