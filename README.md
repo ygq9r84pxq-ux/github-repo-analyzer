@@ -5,7 +5,7 @@ A FastAPI service that analyzes public GitHub repositories using Llama 3.3 70B o
 ## Setup
 
 ```bash
-git clone <repo-url> && cd github-repo-analyzer
+git clone https://github.com/ygq9r84pxq-ux/github-repo-analyzer && cd github-repo-analyzer
 pip install -r requirements.txt
 ```
 
